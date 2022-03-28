@@ -39,7 +39,7 @@ public class MainThread {
         t3.start();
         t4.start();
 
-        // loop for all threads finish.
+        // join for all threads finish.
         t1.join();
         t2.join();
         t3.join();
