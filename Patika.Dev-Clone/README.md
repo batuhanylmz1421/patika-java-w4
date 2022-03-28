@@ -7,7 +7,7 @@ Batuhan YILMAZ
 --------------------------------
 ![](./screenshots/login.png)
 --------------------------------
-![](./screenshots/mysql.png)
+![](./screenshots/mysql2.png)
 --------------------------------
 ![](./screenshots/ss1.png)
 --------------------------------
